@@ -1,5 +1,8 @@
-permalink: /research/
-title: "Research"
+---
+permalink: /about/
+title: "About"
+toc: true
+---
 
 ### Peer-review articles
 - H. Truong, A. Marouf, A. Gehri, J. Vos, Y. Hoarau.  Aerodynamic drag reduction of a tilt rotor aircraft using zero-net-massflux devices. Flow, Turbulence and Combustion (submitted)
