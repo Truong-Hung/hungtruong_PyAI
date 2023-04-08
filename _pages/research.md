@@ -1,3 +1,5 @@
+permalink: /about/
+title: "About"
 ### Peer-review articles
 - H. Truong, A. Marouf, A. Gehri, J. Vos, Y. Hoarau.  Aerodynamic drag reduction of a tilt rotor aircraft using zero-net-massflux devices. Flow, Turbulence and Combustion (submitted)
 - H. Truong, A. Marouf, A. Gehri, J. Vos, M. Braza and Y. Hoarau (2023), _Numerical investigation of active flow control using zero-net-mass-flux jets around a high-lift morphing cambered wing-flap system_, International Journal of Numerical Methods for Heat & Fluid Flow [https://doi.org/10.1108/HFF-09-2022-0558](https://www.emerald.com/insight/content/doi/10.1108/HFF-09-2022-0558/full/html)
