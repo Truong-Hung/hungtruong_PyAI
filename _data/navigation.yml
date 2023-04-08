@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
-    url: https://truong-hung.github.io/hungtruong_PyAI/Research
+    url: /research/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
