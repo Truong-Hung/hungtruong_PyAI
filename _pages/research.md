@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+layout: single
 toc: true
 ---
 
