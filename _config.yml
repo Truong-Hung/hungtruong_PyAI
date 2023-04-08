@@ -121,7 +121,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Researchgate"
-      icon: "fab fa-fw fa-researchgate-square"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Hung-Truong-11?ev=hdr_xprf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
