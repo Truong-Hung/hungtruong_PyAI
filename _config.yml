@@ -26,7 +26,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/Prely.png"
+logo                     : # "/assets/images/Prely.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Hung Truong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Prely.png"
   bio              : "As someone with a PhD in Applied Mathematics, I find myself constantly captivated by mathematical algorithms and numerical methods. My passion for these subjects has become so all-consuming that I often view the world not only as it appears, but also through the lens of mathematical models. In fact, I'm convinced that the possibility of this world being a simulation is quite high."
   location         : "Strasbourg"
   email            :
