@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://truong-hung.github.io/hungtruong_PyAI/About
+    url: /About
   - title: "Research"
     url: https://truong-hung.github.io/hungtruong_PyAI/Research
   # - title: "Sample Collections"
