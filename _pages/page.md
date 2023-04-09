@@ -1,5 +1,6 @@
 ---
-layout: splash_notittle
+layout: splash
+title: "PyAI for General Education"
 permalink: /page/
 hidden: true
 header:
