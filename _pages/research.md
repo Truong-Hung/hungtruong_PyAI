@@ -22,7 +22,7 @@ toc: true
 - [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
 
 <figure>
-  <img src="{{ '../assets/images/BB_in_turbulence.gif' | relative_url }}" alt="bumblebee in turbulence">
+  <img src='../assets/images/BB_in_turbulence.gif' alt="bumblebee in turbulence">
   <figcaption>A bumblebee with flexible wings flying in a turbulent flow</figcaption>
 </figure>
 
