@@ -13,7 +13,7 @@ toc: true
 [https://www.afc4tr.eu](https://www.afc4tr.eu/)
 
 <figure>
-  <img src='assets/images/AFC4TR.newsletter_v2.png' alt="AFC4TR newsletter">
+  <img src='../assets/images/AFC4TR.newsletter_v2.png' alt="AFC4TR newsletter">
   <figcaption>Tiltrotor aircraft equipped synthetic jets for flow control.</figcaption>
 </figure>
 
