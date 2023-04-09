@@ -2,8 +2,6 @@
 permalink: /about/
 layout: single
 
-###
-
 ###EXPERIENCE
   09/2021 - 12/2022
       Postdoc
