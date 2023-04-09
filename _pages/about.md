@@ -27,6 +27,7 @@ layout: single
  03/2013 - 07/2013
       Intern
       **LIAS, École Nationale Supérieure de Mécanique et d’Aérotechnique, Poitiers**
+---
 
 ###EDUCATION
   2017 - 2021
@@ -42,3 +43,5 @@ layout: single
       Aeronautical Engineer
       **Institut Polytechnique de Ho-Chi-Minh ville/
       École Nationale Supérieure de Mécanique et d'Aérotechnique**
+      
+---
