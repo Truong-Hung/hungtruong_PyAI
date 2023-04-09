@@ -3,7 +3,7 @@ permalink: /about/
 layout: single
 ---
 
-###EXPERIENCE
+###EXPERIENCE /n
   09/2021 - 12/2022
       Postdoc
       **University of Strasbourg**
@@ -27,9 +27,10 @@ layout: single
  03/2013 - 07/2013
       Intern
       **LIAS, École Nationale Supérieure de Mécanique et d’Aérotechnique, Poitiers**
+
 ---
 
-###EDUCATION
+###EDUCATION /n
   2017 - 2021
       PhD in Applied Mathematics
       **Aix-Marseille University**
