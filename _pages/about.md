@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 layout: single
+classes : wide
 ---
 
 ### EXPERIENCE
