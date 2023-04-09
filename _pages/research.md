@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-layout: splash
+layout: single
 classes: wide
 toc: true
 ---
@@ -13,16 +13,18 @@ toc: true
 [https://www.afc4tr.eu](https://www.afc4tr.eu/)
 
 <figure>
-  <img src='../assets/images/AFC4TR.newsletter_v2.png' alt="AFC4TR newsletter" height="180">
+  <img src='../assets/images/AFC4TR.newsletter_v2.png' alt="AFC4TR newsletter" height="360">
   <figcaption>Tiltrotor aircraft equipped synthetic jets for flow control.</figcaption>
 </figure>
 
 ### Aerodynamics of Insect Flight In Turbulent Flow - AIFIT
 
-- [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
+The AIFIT project is a collaborative, french-german research project. Four partners at the Universities of Rostock, Paris, Berlin and Marseille are combining their own unique perspectives on the problem of flapping flight in turbulence. The project aims at improving our understanding of how insects manage to fly in their turbulent environment, specifically if flapping flight has advantages over conventional fixed-wing flight, as employed by human-designed aircraft.
+
+For more details, please have a look at [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
 
 <figure>
-  <img src='../assets/images/BB_in_turbulence.gif' alt="bumblebee in turbulence" height="180">
+  <img src='../assets/images/BB_in_turbulence.gif' alt="bumblebee in turbulence" height="360">
   <figcaption>A bumblebee with flexible wings flying in a turbulent flow</figcaption>
 </figure>
 
@@ -38,8 +40,6 @@ toc: true
 - H. Truong, T. Engels, D. Kolomenskiy, K. Schneider. _Fluid-structure interaction using volume penalization and mass-spring models with application to flapping bumblebee flight_.  In: Deiterding R., Domingues M.O., Schneider K. (eds) Cartesian CFD Methods for Complex Applications. SEMA SIMAI Springer Series, vol 3. Springer, Cham. [https://doi.org/10.1007/978-3-030-61761-5_2](https://doi.org/10.1007/978-3-030-61761-5_2)
 - H. Truong, T. Engels, D. Kolomenskiy, K. Schneider. _Influence of wing flexibility on the aerodynamic performance of a tethered flapping bumblebee_. Theoretical & Applied Mechanics Letters, 10(6): 382-389, [https://doi.org/10.1016/j.taml.2020.01.056](https://doi.org/10.1016/j.taml.2020.01.056)
 - H. Truong, T. Engels, D. Kolomenskiy, K. Schneider. _A mass-spring fluid-structure interaction solver: application to flexible revolving wings_. Computers and Fluids 200:104426, [https://doi.org/10.1016/j.compfluid.2020.104426](https://doi.org/10.1016/j.compfluid.2020.104426)
-
----
 
 ### Conference articles
 - [H. Truong, A. Marouf, Y. Hoarau, A. Gehri, J. Vos (2023). Optimization of Synthetic jet to enhance the aerodynamic performance of a VTOL aircraft at real flight conditions. AIAA 2023-0250. Proceeding of the AIAA SCITECH 2023 Forum](https://arc.aiaa.org/doi/abs/10.2514/6.2023-0250)
