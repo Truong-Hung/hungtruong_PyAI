@@ -1,9 +1,29 @@
 ---
 permalink: /research/
 title: "Research"
-layout: single
+layout: splash
+classes: wide
 toc: true
 ---
+
+## Research projects
+
+### Active Flow Control for Tilt-Rotor aircraft - AFC4TR 
+
+[https://www.afc4tr.eu](https://www.afc4tr.eu/)
+
+
+<img src="images/AFC4TR.newsletter_v2.png?raw=true"/>
+
+### Aerodynamics of Insect Flight In Turbulent Flow - AIFIT
+
+- [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
+
+<img src="images/BB_in_turbulence.gif?raw=true"/>
+
+---
+
+## Publications
 
 ### Peer-review articles
 - H. Truong, A. Marouf, A. Gehri, J. Vos, Y. Hoarau.  Aerodynamic drag reduction of a tilt rotor aircraft using zero-net-massflux devices. Flow, Turbulence and Combustion (submitted)
