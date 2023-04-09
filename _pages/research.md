@@ -13,13 +13,13 @@ toc: true
 [https://www.afc4tr.eu](https://www.afc4tr.eu/)
 
 
-<img src="images/AFC4TR.newsletter_v2.png?raw=true"/>
+<img src="assets/images/AFC4TR.newsletter_v2.png?raw=true"/>
 
 ### Aerodynamics of Insect Flight In Turbulent Flow - AIFIT
 
 - [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
 
-<img src="images/BB_in_turbulence.gif?raw=true"/>
+<img src="assets/images/BB_in_turbulence.gif?raw=true"/>
 
 ---
 
