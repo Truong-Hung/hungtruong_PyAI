@@ -28,8 +28,6 @@ For more details, please have a look at [http://aifit.cfd.tu-berlin.de/wordpress
   <figcaption>A bumblebee with flexible wings flying in a turbulent flow</figcaption>
 </figure>
 
----
-
 ## Publications
 
 ### Peer-review articles
