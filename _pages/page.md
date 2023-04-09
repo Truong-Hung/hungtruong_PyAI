@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: splash_notittle
 permalink: /page/
 hidden: true
 header:
