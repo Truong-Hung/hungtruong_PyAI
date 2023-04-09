@@ -13,7 +13,7 @@ toc: true
 [https://www.afc4tr.eu](https://www.afc4tr.eu/)
 
 <figure>
-  <img src='../assets/images/AFC4TR.newsletter_v2.png' alt="AFC4TR newsletter">
+  <img src='../assets/images/AFC4TR.newsletter_v2.png' alt="AFC4TR newsletter" height="360">
   <figcaption>Tiltrotor aircraft equipped synthetic jets for flow control.</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ toc: true
 - [http://aifit.cfd.tu-berlin.de/wordpress/](http://aifit.cfd.tu-berlin.de/wordpress/)
 
 <figure>
-  <img src='../assets/images/BB_in_turbulence.gif' alt="bumblebee in turbulence">
+  <img src='../assets/images/BB_in_turbulence.gif' alt="bumblebee in turbulence" height="360">
   <figcaption>A bumblebee with flexible wings flying in a turbulent flow</figcaption>
 </figure>
 
