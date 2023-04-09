@@ -1,7 +1,14 @@
 ---
 permalink: /about/
 layout: single
+title: 'About me'
 classes : wide
+---
+
+### BIO
+
+As someone with a PhD in Applied Mathematics, I find myself constantly captivated by mathematical algorithms and numerical methods. My passion for these subjects has become so all-consuming that I often view the world not only as it appears, but also through the lens of mathematical models. I am even open to the possibility that the world we live in might be nothing more than a simulation, given my profound interest in the subject matter.
+
 ---
 
 ### EXPERIENCE
