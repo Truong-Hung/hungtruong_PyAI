@@ -8,12 +8,14 @@ layout: single
 09/2021 - 12/2022 <br />
 > Postdoc <br />
 > **University of Strasbourg**
-      
+    
   09/2019 - 08/2021
+  
       Lecturer (ATER en français)
       **Aix-Marseille University**
       
- 02/2017 - 08/2019
+  02/2017 - 08/2019
+
       PhD student
       **Aix-Marseille University**
       
