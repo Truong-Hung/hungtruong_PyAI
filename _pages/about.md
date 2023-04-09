@@ -3,7 +3,7 @@ permalink: /about/
 layout: single
 ---
 
-###EXPERIENCE /n
+### EXPERIENCE
   09/2021 - 12/2022
       Postdoc
       **University of Strasbourg**
@@ -30,7 +30,7 @@ layout: single
 
 ---
 
-###EDUCATION /n
+### EDUCATION
   2017 - 2021
       PhD in Applied Mathematics
       **Aix-Marseille University**
