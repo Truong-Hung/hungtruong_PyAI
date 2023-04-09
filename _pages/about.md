@@ -4,9 +4,10 @@ layout: single
 ---
 
 ### EXPERIENCE
-  09/2021 - 12/2022
-      Postdoc
-      **University of Strasbourg**
+
+09/2021 - 12/2022 <br />
+> Postdoc <br />
+> **University of Strasbourg**
       
   09/2019 - 08/2021
       Lecturer (ATER en français)
