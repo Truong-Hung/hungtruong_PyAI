@@ -5,47 +5,39 @@ layout: single
 
 ### EXPERIENCE
 
-09/2021 - 12/2022 <br />
-> Postdoc <br />
+> Postdoc | 09/2021 - 12/2022 <br />
 > **University of Strasbourg**
+> - Optimization using Bayesian algorithm
+> - Scientific computing
     
-  09/2019 - 08/2021
-  
-      Lecturer (ATER en français)
-      **Aix-Marseille University**
+> Lecturer (ATER en français) | 09/2019 - 08/2021 <br />
+> **Aix-Marseille University**
       
-  02/2017 - 08/2019
-
-      PhD student
-      **Aix-Marseille University**
+> PhD student | 02/2017 - 08/2019 <br />
+> **Aix-Marseille University**
       
- 04/2016 - 10/2016
-      Intern
-      **PSA Group, Vélizy-Villacoublay**
+> Intern | 04/2016 - 10/2016 <br />
+> **PSA Group, Vélizy-Villacoublay**
       
- 05/2015 - 09/2015
-      Intern
-      **Laboratoire d’Informatique pour la Mécanique et les Sciences de l’Ingénieur – CNRS, Orsay**
+> Intern | 05/2015 - 09/2015 <br />
+> **Laboratoire d’Informatique pour la Mécanique et les Sciences de l’Ingénieur – CNRS, Orsay**
       
- 03/2013 - 07/2013
-      Intern
-      **LIAS, École Nationale Supérieure de Mécanique et d’Aérotechnique, Poitiers**
+> Intern | 03/2013 - 07/2013 <br />
+> **LIAS, École Nationale Supérieure de Mécanique et d’Aérotechnique, Poitiers**
 
 ---
 
 ### EDUCATION
-  2017 - 2021
-      PhD in Applied Mathematics
-      **Aix-Marseille University**
   
-  2014 - 2016
-      Master in Fluid Mechanics
-      **Université Pierre et Marie Curie/
-      Ecole Polytechnique**
+> PhD in Applied Mathematics | 2017 - 2021 <br />
+> **Aix-Marseille University**
   
-  2008 - 2013
-      Aeronautical Engineer
-      **Institut Polytechnique de Ho-Chi-Minh ville/
-      École Nationale Supérieure de Mécanique et d'Aérotechnique**
+> Master in Fluid Mechanics | 2014 - 2016 <br />
+> **Université Pierre et Marie Curie & <br />
+> Ecole Polytechnique**
+  
+> Aeronautical Engineer | 2008 - 2013 <br />
+> **Institut Polytechnique de Ho-Chi-Minh ville & <br />
+> École Nationale Supérieure de Mécanique et d'Aérotechnique**
       
 ---
