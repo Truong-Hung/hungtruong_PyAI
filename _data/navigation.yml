@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "PyAI"
     url: /pythonprojects/
   - title: "Tutorials"
     url: /pythontutorials/
   - title: "Research"
     url: /research/
+  - title: "About"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
