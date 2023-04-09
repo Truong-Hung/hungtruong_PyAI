@@ -1,17 +1,47 @@
 ---
-permalink: /
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+permalink: /about/
+layout: single
+
+###
+
+###EXPERIENCE
+  09/2021 - 12/2022
+      Postdoc
+      **University of Strasbourg**
+      
+  09/2019 - 08/2021
+      Lecturer (ATER en français)
+      **Aix-Marseille University**
+      
+ 02/2017 - 08/2019
+      PhD student
+      **Aix-Marseille University**
+      
+ 04/2016 - 10/2016
+      Intern
+      **PSA Group, Vélizy-Villacoublay**
+      
+ 05/2015 - 09/2015
+      Intern
+      **Laboratoire d’Informatique pour la Mécanique et les Sciences de l’Ingénieur – CNRS, Orsay**
+      
+ 03/2013 - 07/2013
+      Intern
+      **LIAS, École Nationale Supérieure de Mécanique et d’Aérotechnique, Poitiers**
+
+###EDUCATION
+  2017 - 2021
+      PhD in Applied Mathematics
+      **Aix-Marseille University**
+  
+  2014 - 2016
+      Master in Fluid Mechanics
+      **Université Pierre et Marie Curie/
+      Ecole Polytechnique**
+  
+  2008 - 2013
+      Aeronautical Engineer
+      **Institut Polytechnique de Ho-Chi-Minh ville/
+      École Nationale Supérieure de Mécanique et d'Aérotechnique**
+  
 ---
