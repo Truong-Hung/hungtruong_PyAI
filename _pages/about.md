@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 layout: single
+---
 
 ###EXPERIENCE
   09/2021 - 12/2022
@@ -41,5 +42,3 @@ layout: single
       Aeronautical Engineer
       **Institut Polytechnique de Ho-Chi-Minh ville/
       École Nationale Supérieure de Mécanique et d'Aérotechnique**
-  
----
