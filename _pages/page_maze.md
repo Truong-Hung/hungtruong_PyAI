@@ -1,38 +1,30 @@
 ---
-layout: post
+layout: single
 permalink: /page/maze
+author_profile: true
+classes: wide
 hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
 ---
 
-{% include feature_row %}
+In this project, we are trying to solve the search problem by finding a sequence of steps to go from a starting point A to a destination point B. We are firstly exploring the two algorithms depth-first search (DFS) and breadth-first search (BFS). A DFS algorithm focuses on exploring a single path thoroughly before moving on to another path, whereas a BFS algorithm explores multiple paths simultaneously by taking one step in each possible direction before moving on to the second step in each direction. In the code, the two algorithms can be changed by modifying the data structure of the frontier to stack (last-in first-out) for DFS and to queue (first-in first-out) for BFS.
+
+<figure>
+  <img src='../assets/maze_DFS.gif' alt="traffic sign" height="360">
+  <figcaption>Demonstration of DFS algorithm for finding path in a maze.</figcaption>
+</figure>
+
+<figure>
+  <img src='../assets/maze_BFS.gif' alt="traffic sign" height="360">
+  <figcaption>Demonstration of BFS algorithm for finding path in a maze.</figcaption>
+</figure>
+
+The code is written based on the course CS50’s Introduction to Artificial Intelligence with Python and it can be downloaded [here](https://github.com/Truong-Hung/Maze)
+
+The code can be run by: python maze.py maze.txt
+
+where maze.txt contains the structure of the maze you want to solve with A is the starting point, B is the destination and # is wall.
+
+# Tutorial
+
+**INCOMING**
+
