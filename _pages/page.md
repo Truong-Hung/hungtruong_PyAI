@@ -31,7 +31,7 @@ feature_row:
     alt: "traffic signs"
     title: "Traffic sign recognition"
     excerpt: "Building a neural network using TensorFlow to classify road signs based on an image of those signs"
-    url: "/page/trafficsign"
+    url: "/page/trafficsigns"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
