@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 permalink: /page/trafficsigns
-hidden: true      
+classes: wide
+hidden: true    
 ---
 
 
