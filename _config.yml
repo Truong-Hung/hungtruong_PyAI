@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My page"
+title                    : "Hung Truong"
 title_separator          : " "
-subtitle                 : ""
+subtitle                 : "My personal website"
 name                     : "Hung Truong"
 description              : "Welcome to my personal website where I share my passion for programming using mainly Python and the applications in Artificial Intelligence. I share here some tutorials and exercises which help me to learn AI algorithms and I hope that it would help you too. Whether you're a beginner or an experienced coder, I invite you to explore my website and discover the exciting possibilities of AI programming with Python. Let's learn and grow together!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
