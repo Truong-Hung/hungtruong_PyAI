@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /page/trafficsigns
+author_profile: true
 classes: wide
 hidden: true
 header:
