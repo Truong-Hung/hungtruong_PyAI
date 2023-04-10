@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /page/maze
 hidden: true
 header:
   overlay_color: "#5e616c"
