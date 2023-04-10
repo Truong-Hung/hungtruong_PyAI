@@ -2,7 +2,9 @@
 layout: single
 permalink: /page/trafficsigns
 classes: wide
-hidden: true    
+hidden: true
+header:
+  image: /assets/traffic_sign_recognition_header.jpg
 ---
 
 
