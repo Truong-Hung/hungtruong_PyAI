@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: post
 permalink: /page/maze
 hidden: true
 header:
