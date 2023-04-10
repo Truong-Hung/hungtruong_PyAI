@@ -6,12 +6,8 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Welcome to my personal website where I share my passion for programming using mainly Python and the applications in Artificial Intelligence. I share here some tutorials and exercises which help me to learn AI algorithms and I hope that it would help you too. Whether you're a beginner or an experienced coder, I invite you to explore my website and discover the exciting possibilities of AI programming with Python. Let's learn and grow together! <br />
 feature_row:
   - image_path: /assets/maze.jpg
     alt: "maze"
