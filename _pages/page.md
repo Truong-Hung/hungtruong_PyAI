@@ -16,14 +16,14 @@ feature_row:
     url: "/page/maze"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/tictactoe.jpg
+  - image_path: /assets/tictactoe.png
     alt: "tictactoe"
     title: "Adversarial Search with Tic-Tac-Toe"
     excerpt: "Adversarial search algorithms, frequently encountered in games like tic tac toe, confront opponents striving to achieve opposing goals"
     url: "/page/tictactoe"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/traffic_signs.jpg
+  - image_path: /assets/traffic_signs.png
     alt: "traffic signs"
     title: "Traffic sign recognition"
     excerpt: "Building a neural network using TensorFlow to classify road signs based on an image of those signs"
